@@ -61,7 +61,7 @@ var randomNumber = Math.floor(Math.random() * 105 + 15)
 ### Built With
 * HTML
 * CSS
-*jQuery JavaScript
+* jQuery JavaScript
 * [VSC](https) - Visual Studio Code, Editor
 * [Github Pages](https) - Deployment
 
