@@ -14,7 +14,7 @@ Game will never reveal the number of each gem, instead the total score will be u
 The total amount of wins and losses will be displayed and updated everytime the player wins or losses.
 Everytime the game restarts the player is given a new random number and the gems have different hidden values.
 
-![alt text](crystalcollector.gif)
+![alt text]()
 
 ### Getting Started
 You will need to create an HTML and CSS file and for the game functionality you will be using JavaScript's library jQuery.
